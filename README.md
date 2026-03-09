@@ -1,4 +1,4 @@
-* Lógica de Programação com JavaScript *
+# Lógica de Programação com JavaScript #
 
 Projeto desenvolvido durante o curso de Lógica de Programação: mergulhe em programação com JavaScript da Alura.
 
